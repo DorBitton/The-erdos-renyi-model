@@ -7,6 +7,7 @@ Algorithms 2 - HIT
 
 
 According to what was asked, samplesNumber is set to 500, with V of 1000. And we were asked to check the following:
+
 ●	Connectivity - Threshold1 - if p<Threshold1 the graph is not connected in high probability. If p>Threshold1 the graph is connected in high probability. 
  
 ●	Diameter - Threshold2 - if p>Threshold2 the graph has a high probability of diameter=2. 
