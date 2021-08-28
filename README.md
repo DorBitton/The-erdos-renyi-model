@@ -8,17 +8,26 @@ Algorithms 2 - HIT
 
 According to what was asked, samplesNumber is set to 500, with V of 1000. And we were asked to check the following:
 ●	Connectivity - Threshold1 - if p<Threshold1 the graph is not connected in high probability. If p>Threshold1 the graph is connected in high probability. 
+ 
 ●	Diameter - Threshold2 - if p>Threshold2 the graph has a high probability of diameter=2. 
 if p<Threshold2 the graph has a high probability of diameter > 2.
+ 
 ●	Is isolated - Threshold3 - if p<Threshold3 the graph has a high probability of isolated vertex. if p>Threshold3 the graph has a high probability of non isolated vertex.
 
+ 
+ 
 The graph was built by a Class called Graph, I created an array of sets, each set contains Edges of each Vertex.
 I used pre determined probabilities to check if Edge exists or not. 
 Generate a random number between 0 - 1, if the number is <= to the predetermined probability, then edge exists.
 
+                                                             
+                                                             
 Then we used different functions to check the properties of the graphs.
 Explanation of each function is on the next page. 
 
+                                                             
+                                                             
+                                                             
 Functions explanation: 
 
 firstOption / secondOption / thirdOption
@@ -74,6 +83,9 @@ Used to return V.
 BFS
 BFS checks the number of edges connected, and returns an array of them. 
 
+                                                             
+                                                             
+                                                             
 Threshold 3 Graph:
  
 (See attached ThirdThresholdResults.xlsx)
