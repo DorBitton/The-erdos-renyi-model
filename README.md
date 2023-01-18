@@ -89,8 +89,8 @@ BFS checks the number of edges connected, and returns an array of them. 
                                                              
 Threshold 3 Graph:
  
-(See attached ThirdThresholdResults.xlsx)
+<img align="left" width="1000px" style="padding-right:10px;" src="https://i.ibb.co/wCzrPLM/Third.jpg" />
 
 Threshold1 Graph: 
 
-<img align="left" width="1000px" style="padding-right:10px;" src="https://i.ibb.co/wCzrPLM/Third.jpg" />
+<img align="left" width="1000px" style="padding-right:10px;" src="https://i.ibb.co/C1zpBP7/Capture.jpg" />
