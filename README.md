@@ -93,4 +93,4 @@ Threshold 3 Graph:
 
 Threshold1 Graph: 
 
-<img align="left" width="30px" style="padding-right:10px;" src="https://i.ibb.co/wCzrPLM/Third.jpg" />
+<img align="left" width="1000px" style="padding-right:10px;" src="https://i.ibb.co/wCzrPLM/Third.jpg" />
